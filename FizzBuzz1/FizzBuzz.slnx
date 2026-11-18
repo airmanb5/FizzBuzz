@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="FizzBuzz/FizzBuzz.csproj" />
+  <Project Path="TestFizzBuzz/TestFizzBuzz.csproj" Id="006b8e06-5eb3-46b8-83a8-5cc811751eec" />
 </Solution>

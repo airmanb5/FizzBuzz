@@ -8,7 +8,6 @@ class Program
 
         for (int i = 0; i < 100; i++)
         {
-
             converter.CheckIfFizzOrBuzzOrFizzBuzz("", i);
         }
     }
